@@ -1,0 +1,17 @@
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\bin\Debug\net8.0\aspProjekat.DataAccess.deps.json
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\bin\Debug\net8.0\aspProjekat.DataAccess.runtimeconfig.json
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\bin\Debug\net8.0\aspProjekat.DataAccess.dll
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\bin\Debug\net8.0\aspProjekat.DataAccess.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\bin\Debug\net8.0\aspProjekat.Domain.dll
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\bin\Debug\net8.0\aspProjekat.Domain.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProjekat.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProjekat.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProjekat.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProjekat.DataAccess.AssemblyInfo.cs
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProjekat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProje.51FD5745.Up2Date
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProjekat.DataAccess.dll
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\refint\aspProjekat.DataAccess.dll
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProjekat.DataAccess.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\aspProjekat.DataAccess.genruntimeconfig.cache
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\DataAccess\obj\Debug\net8.0\ref\aspProjekat.DataAccess.dll

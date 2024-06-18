@@ -1,0 +1,15 @@
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\bin\Debug\net8.0\aspProjekat.Application.deps.json
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\bin\Debug\net8.0\aspProjekat.Application.dll
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\bin\Debug\net8.0\aspProjekat.Application.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\bin\Debug\net8.0\aspProjekat.Domain.dll
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\bin\Debug\net8.0\aspProjekat.Domain.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\aspProjekat.Application.csproj.AssemblyReference.cache
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\aspProjekat.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\aspProjekat.Application.AssemblyInfoInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\aspProjekat.Application.AssemblyInfo.cs
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\aspProjekat.Application.csproj.CoreCompileInputs.cache
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\aspProje.A75F4C80.Up2Date
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\aspProjekat.Application.dll
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\refint\aspProjekat.Application.dll
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\aspProjekat.Application.pdb
+C:\Users\Uros Cvetkovski\source\repos\aspProjekat\Application\obj\Debug\net8.0\ref\aspProjekat.Application.dll
